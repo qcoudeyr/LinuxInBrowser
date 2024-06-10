@@ -1,2 +1,2 @@
 # LinuxInBrowser
-Linux In Browser (LIBro) is a pretty simple :-> Give you access to all linux os into a Web Browser
+Linux In Browser (LIBro) is a pretty simple project :-> Give you access to all linux distro into a Web Browser
